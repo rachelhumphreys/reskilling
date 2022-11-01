@@ -1,0 +1,5 @@
+ID;createdAt;createdBy;productName;productPrice;quantity;warehouseLocation;companyCode;countryCode;comments;
+20466922-7d57-4e76-b14c-e53fd97dcb11;2019-10-24;SYSTEM;rubber duck;3.99;3;aisle 3;ABC;DE;only available in yellow;
+20466922-7d57-4e76-b14c-e53fd97dcb23;2019-10-24;SYSTEM;umbrellas;7.99;6;aisle 5;KLM;GB;assorted colours;
+20466922-7d57-4e76-b14c-e53fd97dcb54;2019-10-24;SYSTEM;beach balls;8.99;9;aisle 5;KLM;GB;watermelon design;
+

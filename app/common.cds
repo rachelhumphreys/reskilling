@@ -5,7 +5,7 @@ using inventory as inv from '../db/schema';
  productName @title : 'Name';
  productPrice @title : 'Price';
  quantity @title : 'Quantity';
- warehouseLocation @title : 'Warehouse Location';
+ warehouseLocation @title : 'Warehouse Loc';
  companyCode @title : 'Company Code';
  countryCode @title : 'Country ID';
  comments @title : 'Comments';
